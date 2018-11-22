@@ -1,4 +1,4 @@
-# Geochronological_Colors
+# Geologic time scale. Colors.
 In this repositorium you will find HEX Color Codes for Geochronological (Stratigraphic) chart.
 
 Color conversion (RGB2HEX) is done by A. Novoselov, 2018 modifed after [J.M. Pellé](https://engineering.purdue.edu/Stratigraphy/charts/RGB.pdf)
